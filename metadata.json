@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake Android",
+  "description": "A feature-rich retro neon snake game optimized for touch and desktop with progressive difficulty, audio synthesizer, and persistent leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
